@@ -1,13 +1,25 @@
 p{
-	color: red;
-	background-color: orange;
+	color: #4c4c33;
+	background-color: #ccff99;
 }
 
 h1{
-	color: blue;
-	background-color: orange;
+	color: #4c4c33;
+	background-color: #ffb299;
+	text-align: center;
+	border: 9px;
+	border-style: dashed;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-bottom: 100px;
+	padding-top: 100px;
+	
 }
 
 body{
-	background-color: orange;
+	background-color: #ccff99;
+}
+
+h2{
+	color: #4c4c33;
 }
