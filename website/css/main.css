@@ -23,3 +23,13 @@ body{
 h2{
 	color: #4c4c33;
 }
+
+#mainContent {
+	margin-left: 200px;
+}
+
+.centerMe {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
