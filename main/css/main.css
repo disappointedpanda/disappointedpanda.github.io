@@ -1,4 +1,3 @@
-.adjustPhotoSize {
-	display: block;
-	max-width: 120px;
+img.resize {
+	max-height: 150px;
 }
