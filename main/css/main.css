@@ -1,3 +1,36 @@
 img.resize {
 	max-height: 150px;
 }
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: orange;
+	position: fixed;
+}
+
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+nav ul li a:hover{
+	background-color: red;
+	color: black;
+}
+
+#mainContent{
+	margin-left: 210px;
+	margin-right: 50px;
+}
+
+.active{
+	background-color: red;
+	color: black;
+}
